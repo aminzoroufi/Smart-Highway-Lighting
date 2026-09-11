@@ -1,3 +1,6 @@
+> **Collaborative project:** Developed in collaboration with [iamashkan](https://github.com/iamashkan). This repository is a fork of [iamashkan/Smart-Highway-Lighting](https://github.com/iamashkan/Smart-Highway-Lighting).
+> [Browse Amin Zoroufi's projects by role](https://github.com/aminzoroufi/aminzoroufi).
+
 <div align="center">
 
 # 🛣️ Smart Highway Lighting
